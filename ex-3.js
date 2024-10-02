@@ -12,3 +12,5 @@ const employees = [
 ];
 
 // Start coding here
+// employees[1].hobbies.push("Watching basketball");
+employees[1].hobbies[2] = "Watching basketball";
